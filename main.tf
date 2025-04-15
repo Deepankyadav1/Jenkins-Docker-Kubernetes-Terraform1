@@ -24,15 +24,15 @@ variable "resource_group_name" {
 }
 
 variable "acr_name" {
-  default = "acrrathore01" 
+  default = "acrdeepank123456" 
 }
 
 variable "aks_cluster_name" {
-  default = "myAKSCluster"
+  default = "myAKSCluster123456"
 }
 
 variable "dns_prefix" {
-  default = "myakscluster"
+  default = "myakscluster123456"
 }
 
 variable "node_count" {
